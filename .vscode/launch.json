@@ -11,7 +11,7 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "program": "${workspaceFolder}/lib/Ex3-logest-substring-without-repeating-chars/index.ts",
+      "program": "${workspaceFolder}/lib/Debounce/index.ts",
       "preLaunchTask": "tsc: build - tsconfig.json",
       "outFiles": [
         "${workspaceFolder}/**/*.js"
