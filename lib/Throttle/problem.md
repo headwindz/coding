@@ -1,0 +1,1 @@
+Implement `Throttle` method
